@@ -1,0 +1,48 @@
+date - 23 june 2017
+
+Windows image backup - 20.6 GB
+Daily backup - 10.9 GB
+44.8 gb free c drive
+windows.old 13.7 GB
+inetpub - 156 MB
+programe files - 3.10 GB
+programe file86 - 29.2 GB
+send email - 208 KB
+users - 1.34 GB
+windows - 13.7 GB
+
+web mail - https://webmail.au.syrahost.com/login/
+
+Shut down computer automatic
+
+shutdown -s -t 3600     (3600 Second and save this shutdown.batch)
+
+computer knowledge link
+http://www.computerjankar.in/2016/08/data-recovery.html
+
+Serial Key of any Software
+
+http://www.prophethacker.com/2015/09/find-serial-key-software.html
+--------------------------------------------------------------------
+
+Ethical Hacking
+http://www.rocketwebmails.com/2016/04/Learn-Full-Ethical-Hacking-Course-In-Hindi-Language-Step-By-Step-Easy-Way.html
+
+http://www.pakkasolutionhindi.com/2016/05/ethical-hacking-facebook-ya-kisi-bhi.html
+-------------------------------------------------------------------------
+
+Apne Number Ki Call Details Kaise Nikale
+Mubble App
+--------------------------------------------------------
+Kisi Bhi Number Ki Call History Kaise Dekhe,Pata Kare Ya Jane
+Spy software 
+7 days trial version.
+Mspy (Full mobile hacking with location and all apps.)
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------
+Online PDF password creator
+https://www.pdfprotect.net/
+
+
